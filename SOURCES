@@ -1,6 +1,0 @@
-{'sources' : [
-  {
-    'id' : 'PokeMon',
-    'url': 'http://localhost:8888/bundles/PokeMon'
-  }
-]}
